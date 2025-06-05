@@ -1,0 +1,1 @@
+{"batch_id":"58c72ad1-11f5-4f55-bf1f-98f6cc80ada5","ingestion_id":"413505b8-8a7d-448f-8320-0bd2e13949a3","ids":[1,2,3],"priority":2,"created_at":"2025-06-05T06:10:17.724Z","status":"completed","processed_at":"2025-06-05T06:10:22.170Z","results":[{"id":1,"data":"processed"},{"id":2,"data":"processed"},{"id":3,"data":"processed"}]}
